@@ -52,7 +52,7 @@
 
 • Elastic Net Regression
 
-• Decision tree regression
+• Decision Tree regression
 
 • Random Forest Regression
 
