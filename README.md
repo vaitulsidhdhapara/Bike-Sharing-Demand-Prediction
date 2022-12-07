@@ -13,7 +13,7 @@
   
   **Attribute Information:-**
   
-  • Date : year-month-day
+• Date : year-month-day
 
 • Rented Bike count - Count of bikes rented at each hour
 
