@@ -63,4 +63,4 @@
 
 ● We started with loading the data, then we did Exploratory Data Analysis (EDA), null values treatment, feature selection, encoding of categorical columns, and then model building. In all of these models, our accuracy ranges from 75% to 98%, which can be said to be good for such a large dataset. This performance could be due to various reasons like the proper pattern of data, large data, or because of the relevant features.
 
-● After passing data into these models, we get different evaluation matrices. On the basis of these matrices, we can say Gradient Boosting Regressor model is best fitted in this dataset.
+● After passing data into these models, we get different evaluation matrices. On the basis of these matrices, we can say Random Forest and Gradient Boosting Regressor models are best fitted in this dataset.
